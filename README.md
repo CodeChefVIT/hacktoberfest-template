@@ -52,7 +52,7 @@ Click on the link to register yourself [here](https://hacktoberfest.digitalocean
 
 ## CONTRIBUTING
 
-Please refer [CONTRIBUTIONS.md](https://github.com/CodeChefVIT/hacktoberfest-template/blob/master/CONTRIBUTIONS.md) to check our policies and practices.
+Please refer [CONTRIBUTIONS.md](./CONTRIBUTIONS.md) to check our policies and practices.
 
 We welcome first time contributors and open source enthusiasts. Check out our issues and if you are willing to start with something simple check issues marked with the good-first-issue tag.
 
