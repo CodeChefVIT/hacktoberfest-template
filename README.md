@@ -1,3 +1,5 @@
+<img src="https://hacktoberfest.digitalocean.com/_nuxt/img/logo-hacktoberfest-full.f42e3b1.svg">
+
 <h1>
  ⭐️ Project Name Goes here ⭐️
 </h1>
@@ -5,7 +7,6 @@ Project description goes here.
 <br> 
 
 <br>
-<img src="https://embed-fastly.wistia.com/deliveries/49bd387c40e2c5aada92abdf973bc46d.webp?image_crop_resized=960x540">
 
 ---
 [![DOCS](https://img.shields.io/badge/Documentation-see%20docs-green?style=flat-square&logo=appveyor)](INSERT_LINK_FOR_DOCS_HERE) 
@@ -30,7 +31,7 @@ $ python3 manage.py runserver
 
 
 <h2>
- What is Hacktoberfest 2020? 😎
+ What is Hacktoberfest 2020?
 </h2>
 Hacktoberfest is the easiest way to get into open source! Hacktoberfest is a month long celebration of open source code presented by Digital Ocean.
 
@@ -39,12 +40,12 @@ During the entire month of October 2020, all you have to do is contribute to any
 If you’ve never contributed to open source before, this is the perfect time to get started because Hacktoberfest provides a large list of available contribution opportunities.
 
 <h1>
-How to get Started? 💥 
+How to get Started?
 </h1>
 
 Click on the link to register yourself [here](https://hacktoberfest.digitalocean.com/).
 
-## Why should you take part? 🙌 
+## Why should you take part?
 - Chance to contribute to awesome open source projects 
 - Engage with reputed communities
 - Free swags and T-Shirts from Digital Ocean
